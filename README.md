@@ -1,4 +1,4 @@
-<span style="color:green">wegoup &#x1F49A;</span>
+wegoup &#x1F49A;
 ======
 
-- simple *html* project
+![Alt text](/nctdream.jpg)
