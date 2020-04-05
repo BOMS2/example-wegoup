@@ -1,4 +1,4 @@
 wegoup
 ======
 
-# simple *html* project
+- simple *html* project
