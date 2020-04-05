@@ -1,4 +1,4 @@
-<span style="color:blue">wegoup</span>
+<span style="color:blue">wegoup &#x1F34F;</span>
 ======
 
 - simple *html* project
