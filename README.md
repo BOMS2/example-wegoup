@@ -1,1 +1,4 @@
-# wegoup
+wegoup
+======
+
+# simple *html* project
